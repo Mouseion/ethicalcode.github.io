@@ -1,10 +1,10 @@
 ---
 layout: post
 type: status
-title: "Sample Status Title"
+title: "Let's #CleanUpGitHub!"
 description: "Status Headline"
-category: Sample-Posts
-tags: [sample post, status]
+category: events
+tags: [event, code]
 image: 
 comments: false
 mathjax: 
