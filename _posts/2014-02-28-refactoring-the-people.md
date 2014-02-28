@@ -1,21 +1,37 @@
 ---
 layout: post
-title: "Join Us For a Day of Action - #CleanUpGitHub"
-description: A post about the upcoming Clean Up GitHub event.
+title: "Refactoring equality in the technology industry."
+description: Learn more about EthicalCode
 headline: 
-category: events
+category: about
 tags: [Software, People, Code, Ethics]
 image: 
   feature: 
 comments: false
 mathjax: 
 ---
-Here is the content of the first post. This is the little description-y bit that goes on the front page.
+EthicalCode is a coming together of likeminded people in the technology industry to highlight and combat sexism, racism, homophobia, and any kind of exclusive behavious within it.
 
-## Other Content ##
+Hello, [I'm Ben](http://twitter.com/BenNunney). I've been kicking around the 'tech industry' for a while now - having started life as one of those young coders, started businesses, worked at corporates, and had the pleasure of working at some [truly excellent places](http://www.twilio.com).
 
-Here's a ton of other content, too.
+As I've traversed the myre of conferences and events that come with the world of software, and as I've embraced online social networks, I've met some truly brilliant and talented people.
 
-## La La Laaaaa ##
+## However ##
 
-I should really use lorem ipsum.
+The more people I meet, and the more events I go to, the uglier this great industry seems. Sexism is everywhere. Homophobia is commonplace. Racism is found where you least expect it. From booth babes to inappropriate 'humour', working in technology has become thoroughly unpleasant.
+
+But I love software. I love people. I love that, through technology, we can change the world - and the people who build, who create, who DO - we are the ones that can truly make a difference to everyone's lives.
+
+I've spent a lot of time trying to help others (and myself) change the world through the power of sotware - and now, I'm turning my attention where I feel it's needed the most.
+
+## Closer To Home ##
+
+There have been so many examples of terrible things happening - at events, within teams, anywhere that people get together and write software. There are a ton of blogs and twitter feeds that highlight these, and they do a great job of showing off specific instances of horrible behaviour and general ignorance.
+
+I believe, however, that naming and shaming isn't enough. Until we all stand together, shout together, and act together, nothing will change. The ignorant will stay ignorant. The mysognists will still mysogonise. Haters, as they say, gonna hate.
+
+This, then, is EthicalCode. A banner under which people can come together - be it at events or online - and stand for what is right. Talk with confidence and pride about a future free from fear and repression. Be themselves - no matter what - and show the world how diverse and inclusive this industry can be.
+
+I don't know exactly what shape things will take. I don't know how big an impact EthicalCode can realy be. What I do know, though, is that we can be better than this. All of us. And through education, discussion, and positive action, there's nothing we can't achieve.
+
+No excuses, no compromise. Inequaluty ends here.
