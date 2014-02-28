@@ -458,13 +458,13 @@ html {
 /* - Brand - */
 .brand img {
   max-height: 170px;
+  margin-top: -12px;
 }
 /* - Blog title and description - */
 .blog-title {
   font-size: 36px;
   line-height: 36px;
   text-transform: uppercase;
-  margin-bottom: 12px;
 }
 .blog-title span {
   display: block;
