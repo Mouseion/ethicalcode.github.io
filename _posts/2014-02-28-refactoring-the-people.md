@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "REFACTORING EQUALITY IN THE TECHNOLOGY INDUSTRY"
-description: Introduction Post
+title: "Join Us For a Day of Action - #CleanUpGitHub"
+description: A post about the upcoming Clean Up GitHub event.
 headline: 
-category: EthicalCode
+category: events
 tags: [Software, People, Code, Ethics]
 image: 
   feature: 
