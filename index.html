@@ -96,7 +96,7 @@ tags: []
 	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>&nbsp;<span class="post-tags">by {{ site.owner.name }}</span>
 	                        <div class="post-body bordered-bottom"></div>
 	                    </div>
-	                </header>    
+	                </header>
 	            </article>
 	        </div>
 	        {% endif %}
@@ -195,7 +195,7 @@ tags: []
 	                <div class="post-body bordered-bottom">
 	                {% assign excerptsize = post.excerpt | number_of_words %}
 	                {% if excerptsize <= 100 and excerptsize >= 50 %}<p class = "lead">{{ post.excerpt | strip_html }}</p>&hellip;{% else %}
-	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
+	                    <p>{{ post.content | split: '</p>' | first | strip_html }}&hellip;</p>{% endif %}
 	                    {% if post.description %}
 		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link">
 		                    <i class="icon-link"></i> read more...
@@ -208,16 +208,16 @@ tags: []
 	                </div>
 	            </article>
 	        </div>
-			{% endif %}      
-	{% endfor %}  
+			{% endif %}
+	{% endfor %}
 
-{% if paginator.total_pages != 1 %}         
+{% if paginator.total_pages != 1 %}
   {% if site.paginate_path != 'page:num'%}
     {% assign paginate_url = site.paginate_path | remove:'page:num' %}
       {% if paginator.total_pages < 7 %}
               <div class="page-body col-md-12">
                 <ul class="pagination pagination-centered">
-                  {% if paginator.total_pages >= 10 %} 
+                  {% if paginator.total_pages >= 10 %}
                   {% if paginator.previous_page %}
                       <li>
                         <a href="{{ site.url }}/{{ paginate_url }}">&laquo;&laquo;</a>
@@ -272,7 +272,7 @@ tags: []
                       <a>&raquo;</a>
                     </li>
                   {% endif %}
-                  {% if paginator.total_pages >= 10 %} 
+                  {% if paginator.total_pages >= 10 %}
                   {% if paginator.next_page %}
                     <li>
                       <a href="{{ site.url }}/{{ paginate_url }}page{{paginator.total_pages}}">&raquo;&raquo;</a>
@@ -301,10 +301,10 @@ tags: []
       {% assign page_end = paginator.page | plus: 4 %}
       {% assign page_start = paginator.page %}
       {% endif %}
-       
+
       <div class="page-body col-md-12">
         <ul class="pagination pagination-centered">
-          {% if paginator.total_pages > 5 %} 
+          {% if paginator.total_pages > 5 %}
           {% if paginator.previous_page %}
               <li>
                 <a href="{{ site.url }}/{{ paginate_url }}">&laquo;&laquo;</a>
@@ -363,7 +363,7 @@ tags: []
               <a href="#">&raquo;</a>
             </li>
           {% endif %}
-          {% if paginator.total_pages > 5 %} 
+          {% if paginator.total_pages > 5 %}
           {% if paginator.next_page %}
             <li>
               <a href="{{ site.url }}/{{ paginate_url }}page{{paginator.total_pages}}">&raquo;&raquo;</a>
@@ -381,7 +381,7 @@ tags: []
     {% if paginator.total_pages < 7 %}
             <div class="page-body col-md-12">
               <ul class="pagination pagination-centered">
-                {% if paginator.total_pages >= 10 %} 
+                {% if paginator.total_pages >= 10 %}
                 {% if paginator.previous_page %}
                     <li>
                       <a href="{{ site.url }}/">&laquo;&laquo;</a>
@@ -436,7 +436,7 @@ tags: []
                     <a>&raquo;</a>
                   </li>
                 {% endif %}
-                {% if paginator.total_pages >= 10 %} 
+                {% if paginator.total_pages >= 10 %}
                 {% if paginator.next_page %}
                   <li>
                     <a href="{{ site.url }}/page{{paginator.total_pages}}">&raquo;&raquo;</a>
@@ -465,10 +465,10 @@ tags: []
     {% assign page_end = paginator.page | plus: 4 %}
     {% assign page_start = paginator.page %}
     {% endif %}
-     
+
     <div class="page-body col-md-12">
       <ul class="pagination pagination-centered">
-        {% if paginator.total_pages > 5 %} 
+        {% if paginator.total_pages > 5 %}
         {% if paginator.previous_page %}
             <li>
               <a href="{{ site.url }}/">&laquo;&laquo;</a>
@@ -527,7 +527,7 @@ tags: []
             <a>&raquo;</a>
           </li>
         {% endif %}
-        {% if paginator.total_pages > 5 %} 
+        {% if paginator.total_pages > 5 %}
         {% if paginator.next_page %}
           <li>
             <a href="{{ site.url }}/page{{paginator.total_pages}}">&raquo;&raquo;</a>
@@ -634,7 +634,7 @@ tags: []
 	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>&nbsp;<span class="post-tags">by {{ site.owner.name }}</span>
 	                        <div class="post-body bordered-bottom"></div>
 	                    </div>
-	                </header>    
+	                </header>
 	            </article>
 	        </div>
 	        {% endif %}
@@ -742,6 +742,6 @@ tags: []
 	                </div>
 	            </article>
 	        </div>
-			{% endif %}      
-	{% endfor %}  
+			{% endif %}
+	{% endfor %}
 {% endif %}
