@@ -13,7 +13,7 @@ Join Us For Our First Event - Let's #CleanUpGitHub!
 
 Not long ago, [Tom Morris](http://tommorris.org/posts/8053) blogged about a search he did on GitHub for [words like 'faggot'](https://github.com/search?q=faggot&ref=searchresults&type=Code), ['bitches'](https://github.com/search?l=c&p=1&q=bitches&ref=searchresults&type=Code) and other such things. The results surprised him - me - and many others reading the post. Laid bare was a prime example of ignorance being bliss, people publicly posting code with comments and class names that could make so many people feel awful, unwanted, and excluded.
 
-Mostly, these thigs aren't written with the desire to offend, but with an ignorance of the damage their comments and class names can cause. These people need educating.
+Mostly, these things aren't written with the desire to offend, but with an ignorance of the damage their comments and class names can cause. These people need educating.
 
 # Saturday 22nd March, 12:00 - 20:00 GMT
 ## The first #CleanUpGitHub pull-request-a-thon.
