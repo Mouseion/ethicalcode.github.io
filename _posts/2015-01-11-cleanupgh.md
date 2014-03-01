@@ -15,8 +15,8 @@ Not long ago, [Tom Morris](http://tommorris.org/posts/8053) blogged about a sear
 
 Mostly, these thigs aren't written with the desire to offend, but with an ignorance of the damage their comments and class names can cause. These people need educating.
 
-#Saturday 22nd March, 12:00 - 20:00 GMT
-##The first #CleanUpGitHub pull-request-a-thon.
+# Saturday 22nd March, 12:00 - 20:00 GMT
+## The first #CleanUpGitHub pull-request-a-thon.
 In the spirit of positive action, I invite you to join me in raising mass-awareness of this unfortunate issue by finding and changing as many vulgar, offensive, exclusive code comments and names as we can.
 
 We can't force developers to change their code - but eight hours of pull requests from ethical coders the world over might just make people stop, think, and change their ways.
