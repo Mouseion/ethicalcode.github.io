@@ -207,7 +207,7 @@ q {
 }
 @include hyphens(none);
 pre {
-  
+
 }@include text-shadow(none);
 /* - Font weight classes - */
 .black {
@@ -229,6 +229,11 @@ pre {
 .small {
   font-size: 10px;
   line-height: 24px;
+}
+.mega {
+font-size: 48px;
+font-weight: bold;
+line-height: 1;
 }
 .super {
   font-size: 60px;
@@ -510,7 +515,7 @@ html {
 /* -  Post Body - */
 .post-body {
   padding-bottom: 72px;
-  margin-bottom: 72px;
+/*  margin-bottom: 72px;*/
 }
 .post-template .post-body {
   padding-bottom: 36px;
