@@ -19,8 +19,11 @@ Laid bare was a prime example of ignorance being bliss, people publicly posting 
 
 Mostly, these things aren't written with the desire to offend, but with an ignorance of the damage their comments and class names can cause. With just a little education, so many people might look twice at their code and clean it up. And so, with that in mind, I give you our first event.
 <br /><br />
+
 # Saturday 22nd March, 12:00 - 20:00 GMT
+
 ## The first #CleanUpGitHub pull-request-a-thon.
+
 <br />
 
 In the spirit of positive action, I invite you to join us in raising mass-awareness of this unfortunate issue by finding and changing as many vulgar, offensive, exclusive code comments and names as we can.
@@ -37,7 +40,8 @@ I hope you'll join us, remotely or otherwise, in showing the world that there's 
 Questions? Comments? Email [hello@ethicalco.de](mailto:hello@ethicalco.de). 
 
 ----
-###Frequently Asked Questions
+
+### Frequently Asked Questions
 
 | Is this a hackathon? Can I come along and build stuff? |
 | ------------- |
