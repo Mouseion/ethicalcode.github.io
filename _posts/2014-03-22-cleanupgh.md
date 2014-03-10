@@ -51,7 +51,7 @@ Questions? Comments? Email [hello@ethicalco.de](mailto:hello@ethicalco.de).
 | ------------- |
 | That depends on your definition of gimmick - and whether or not you think that's a bad thing. We know that people can just close these pull requests without actually accepting the changes proposed - but the idea isn't to get people to accept everything we try to change. It's about making a stand, making some noise, and raising awareness of the issue.   | 
 
-| What about genuine uses of offensive language in code i.e. blacklists? How will you ensure this is targeting actual offensiveness and not just be too PC? |
+| What about genuine uses of offensive language in code e.g. blacklists? How will you ensure this is targeting actual offensiveness and not just be too PC? |
 | ------------- |
 | We're working on something that will do searching and tracking during the event - but the whole point of getting real people together to do this is to add a human element. Everyone will be encouraged to use common sense and not just edit things for the sake of it.  | 
 
