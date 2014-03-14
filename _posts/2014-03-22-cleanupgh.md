@@ -1,3 +1,14 @@
+---
+layout: post
+type: status
+title: "Let's #CleanUpGitHub!"
+description: "Status Headline"
+category: events
+tags: [event, code]
+image: 
+comments: false
+mathjax: 
+---
 Join Us For Our First Event - Let's #CleanUpGitHub!
 
 Not long ago, [Tom Morris](http://tommorris.org/posts/8053) blogged about a search he did on GitHub for [words like 'faggot'](https://github.com/search?q=faggot&ref=searchresults&type=Code), ['bitches'](https://github.com/search?l=c&p=1&q=bitches&ref=searchresults&type=Code) and other offensive things.
@@ -57,6 +68,3 @@ Questions? Comments? Email [hello@ethicalco.de](mailto:hello@ethicalco.de).
 | I live a billion miles away from London but want to take part in person. Can I? |
 | ------------- |
 | If you want to bring people from within your local community together to have an in-person event near you, please, go for it. Please [let us know](mailto:hello@ethicalco.de) so that we can include you in PR and set you up with an Eventbrite page, but we do strongly encourage people to gather in their own areas if they aren't local to London. Let's face it, there's a lot of world out there.    | 
-
-
-
