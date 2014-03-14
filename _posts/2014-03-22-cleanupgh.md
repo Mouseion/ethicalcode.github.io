@@ -13,7 +13,7 @@ Join Us For Our First Event - Let's #CleanUpGitHub!
 
 Not long ago, [Tom Morris](http://tommorris.org/posts/8053) blogged about a search he did on GitHub for [words like 'faggot'](https://github.com/search?q=faggot&ref=searchresults&type=Code), ['bitches'](https://github.com/search?l=c&p=1&q=bitches&ref=searchresults&type=Code) and other offensive things.
 
-While there's a lot of fairly harmless swearing (this is the internet, s**t (quite literally) happens) in code comments, these searches also showed a far deeper issue.
+While there's a lot of fairly harmless swearing (this is the internet, shit (quite literally) happens) in code comments, these searches also showed a far deeper issue.
 
 Laid bare was a prime example of ignorance being bliss, people publicly posting code with comments that could make so many people feel awful, unwanted, and excluded. We're not just talking about the odd bad word - but very real rants that amount to nothing more than targeted hate.
 
