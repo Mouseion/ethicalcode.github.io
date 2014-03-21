@@ -28,15 +28,15 @@ Organised activities finish at 20:00 GMT, but the app will remain live indefinit
 
 ----
 
-### Keeping In Touch
+## Keeping In Touch
 
 We'll be making use of three main tools during the event: The EthicalCode web app, IRC, and Hangouts on Air.
 
-##### The IRC Channel
+#### The IRC Channel
 
 We're #EthicalCode on [Freenode](http://freenode.net). The channel will be opped on the day, so please keep chat in the spirit of the event and of EthicalCode. If you're new to IRC, there's a great guide [here](http://www.irchelp.org/irchelp/irctutorial.html), and Freenode has a great [web client](http://webchat.freenode.net) if the idea of downloading one doesn't appeal to you.
 
-##### Hangouts on Air
+#### Hangouts on Air
 
 We'll be streaming video from London throughout the event - from the intro through to impromptu debates and just general video of the day. The hangout will be live from 11:30 GMT, check back here for the link, or keep an eye on Twitter!
 
@@ -44,7 +44,7 @@ We'll be streaming video from London throughout the event - from the intro throu
 
 ----
 
-### The EthicalCode Web App
+## The EthicalCode Web App
 
 The thing that'll really make the event special is for us all to be working <i>together</i> rather than on the same thing but in our own way.
 
@@ -52,7 +52,7 @@ To that end we've created a web app that'll let us all work from the same set of
 
 This event isn't about inciting a mob. It's not about being a vigilante. It's about peaceful and constructive action. Holding ourselves accountable and to a strict set of rules will make this something the whole community can get behind.
 
-##### How Does It Work?
+#### How Does It Work?
 
 It's been designed with accessibility and to have as low a barrier to entry as possible. Basically, head to [webapp.ethicalco.de](http://webapp.ethicalco.de) and sign in with your GitHub credentials. Don't worry, this uses GitHub OAuth and we don't see the password.
 
@@ -62,7 +62,7 @@ If it's not actually offensive (i.e. just a few random swear words) you've got t
 
 Easy.
 
-##### Rules
+#### Rules
 
 Remember, #CleanUpGitHub is about hate speech, not censoring swear words. The 'this is not offensive' button exists in the web app for that reason. Be sensible, mature, and honest in your approach to things. If in doubt, ask the IRC chat whether something is really hateful or offensive or not.
 
@@ -70,7 +70,7 @@ When making a pull request, be clear about what you're changing and why. Please 
 
 Remember - even if rejected, a pull request is there on record for all to see.
 
-##### Issues
+#### Issues
 
 If you're having trouble with the web app on the day, ping a message to 'rosspenman' in the IRC channel. Beyond that, you can email [hello@ethicalco.de](mailto:hello@ethicalco.de). 
 
@@ -78,7 +78,7 @@ If you're having trouble with the web app on the day, ping a message to 'rosspen
 
 ----
 
-### Debate
+## Debate
 
 We'll be hosting an in-person and online debate on the day using IRC and Hangouts on Air. More details as and when, as it's designed to be quite ad-hoc. The debate will be facilitated by [@DylanMaryk](http://www.twitter.com/DylanMaryk)
 
