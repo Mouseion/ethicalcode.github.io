@@ -1,7 +1,7 @@
 ---
 layout: post
 type: status
-title: "#CleanUpGitHub! - What You Need To Know!"
+title: "#CleanUpGitHub - What You Need To Know!"
 description: "Status Headline"
 category: events
 tags: [event, code]
@@ -9,11 +9,12 @@ image:
 comments: false
 mathjax: 
 ---
-Taking part in #CleanUpGitHub? Here's what you need to know!
+Event Info for #CleanUpGitHub
 
 Whether you're a remote attendee or you're joining us in person in London, we've been working hard to make sure everyone - everywhere - feels like a part of the event. This page has details of the who, what, how, and when!
 
 ----
+
 ### When and Where
 Everything kicks off at 12:00 GMT with a live-streamed intro by [Ben Nunney](http://www.twitter.com/BenNunney), who'll be in London. If you're remote, be sure to join the hangout a little before that (link below, and in the app). Doors for the London venue open at 11:20, so get there any time from then.
 
@@ -26,6 +27,7 @@ Organised activities finish at 20:00 GMT, but the app will remain live indefinit
 <br />
 
 ----
+
 ### Keeping In Touch
 
 We'll be making use of three main tools during the event: The EthicalCode web app, IRC, and Hangouts on Air.
@@ -41,6 +43,7 @@ We'll be streaming video from London throughout the event - from the intro throu
 <br />
 
 ----
+
 ### The EthicalCode Web App
 
 The thing that'll really make the event special is for us all to be working <i>together</i> rather than on the same thing but in our own way.
@@ -74,6 +77,7 @@ If you're having trouble with the web app on the day, ping a message to 'rosspen
 <br />
 
 ----
+
 ### Debate
 
 We'll be hosting an in-person and online debate on the day using IRC and Hangouts on Air. More details as and when, as it's designed to be quite ad-hoc. The debate will be facilitated by [@DylanMaryk](http://www.twitter.com/DylanMaryk)
