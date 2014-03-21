@@ -1,0 +1,83 @@
+---
+layout: post
+type: status
+title: "#CleanUpGitHub! - What You Need To Know!"
+description: "Status Headline"
+category: events
+tags: [event, code]
+image: 
+comments: false
+mathjax: 
+---
+Taking part in #CleanUpGitHub? Here's what you need to know!
+
+Whether you're a remote attendee or you're joining us in person in London, we've been working hard to make sure everyone - everywhere - feels like a part of the event. This page has details of the who, what, how, and when!
+
+----
+### When and Where
+Everything kicks off at 12:00 GMT with a live-streamed intro by [Ben Nunney](http://www.twitter.com/BenNunney), who'll be in London. If you're remote, be sure to join the hangout a little before that (link below, and in the app). Doors for the London venue open at 11:20, so get there any time from then.
+
+If you're coming to London there'll be food and drink there throughout the day (and a hot meal in the evening).
+
+Organised activities finish at 20:00 GMT, but the app will remain live indefinitely.<br /><br />
+
+[Check the event times in your local time zone here.](http://www.timeanddate.com/worldclock/fixedtime.html?msg=%23CleanUpGitHub&iso=20140322T12&p1=136&ah=8)
+
+<br />
+
+----
+### Keeping In Touch
+
+We'll be making use of three main tools during the event: The EthicalCode web app, IRC, and Hangouts on Air.
+
+##### The IRC Channel
+
+We're #EthicalCode on [Freenode](http://freenode.net). The channel will be opped on the day, so please keep chat in the spirit of the event and of EthicalCode. If you're new to IRC, there's a great guide [here](http://www.irchelp.org/irchelp/irctutorial.html), and Freenode has a great [web client](http://webchat.freenode.net) if the idea of downloading one doesn't appeal to you.
+
+##### Hangouts on Air
+
+We'll be streaming video from London throughout the event - from the intro through to impromptu debates and just general video of the day. The hangout will be live from 11:30 GMT, check back here for the link, or keep an eye on Twitter!
+
+<br />
+
+----
+### The EthicalCode Web App
+
+The thing that'll really make the event special is for us all to be working <i>together</i> rather than on the same thing but in our own way.
+
+To that end we've created a web app that'll let us all work from the same set of search results, will track the progress we've made, and will let us quickly and easily flag things that either need further follow-up or aren't actually offensive.
+
+This event isn't about inciting a mob. It's not about being a vigilante. It's about peaceful and constructive action. Holding ourselves accountable and to a strict set of rules will make this something the whole community can get behind.
+
+##### How Does It Work?
+
+It's been designed with accessibility and to have as low a barrier to entry as possible. Basically, head to [webapp.ethicalco.de](http://webapp.ethicalco.de) and sign in with your GitHub credentials. Don't worry, this uses GitHub OAuth and we don't see the password.
+
+You're then presented with a nice big button that'll give you the next repo in the queue. It's down to you to then take a look at it and decide what needs to happen based on the rules below.
+
+If it's not actually offensive (i.e. just a few random swear words) you've got the option to mark it as that, and it won't appear again. If it needs a pull request, do that on GitHub and the web app will automatically pick it up and ask you to confirm when you come back to it.
+
+Easy.
+
+##### Rules
+
+Remember, #CleanUpGitHub is about hate speech, not censoring swear words. The 'this is not offensive' button exists in the web app for that reason. Be sensible, mature, and honest in your approach to things. If in doubt, ask the IRC chat whether something is really hateful or offensive or not.
+
+When making a pull request, be clear about what you're changing and why. Please include the following: <i>"This comment has been identified as either hateful, hurtful or discriminatory as part of a project to #CleanUpGitHub. This pull request was made by a human. For more info, please check EthicalCode's website at www.ethicalco.de/cleanupgh".</i>
+
+Remember - even if rejected, a pull request is there on record for all to see.
+
+##### Issues
+
+If you're having trouble with the web app on the day, ping a message to 'rosspenman' in the IRC channel. Beyond that, you can email [hello@ethicalco.de](mailto:hello@ethicalco.de). 
+
+<br />
+
+----
+### Debate
+
+We'll be hosting an in-person and online debate on the day using IRC and Hangouts on Air. More details as and when, as it's designed to be quite ad-hoc. The debate will be facilitated by [@DylanMaryk](http://www.twitter.com/DylanMaryk)
+
+<br />
+
+----
