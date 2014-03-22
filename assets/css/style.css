@@ -807,11 +807,11 @@ h6.lighter {
   transition-duration: 1s;
 }
 .animated .medium {
-  -webkit-transition-delay: 1.35s;
-  -moz-transition-delay: 1.35s;
-  -o-transition-delay: 1.35s;
-  -ms-transition-delay: 1.35s;
-  transition-delay: 1.35s;
+  -webkit-transition-delay: 0.85s;
+  -moz-transition-delay: 0.85s;
+  -o-transition-delay: 0.85s;
+  -ms-transition-delay: 0.85s;
+  transition-delay: 0.85s;
   -webkit-transition-duration: 0.75s;
   -moz-transition-duration: 0.75s;
   -o-transition-duration: 0.75s;
@@ -819,11 +819,11 @@ h6.lighter {
   transition-duration: 0.75s;
 }
 .animated .small {
-  -webkit-transition-delay: 1.5s;
-  -moz-transition-delay: 1.5s;
-  -o-transition-delay: 1.5s;
-  -ms-transition-delay: 1.5s;
-  transition-delay: 1.5s;
+  -webkit-transition-delay: 1s;
+  -moz-transition-delay: 1s;
+  -o-transition-delay: 1s;
+  -ms-transition-delay: 1s;
+  transition-delay: 1s;
   -webkit-transition-duration: 0.5s;
   -moz-transition-duration: 0.5s;
   -o-transition-duration: 0.5s;
